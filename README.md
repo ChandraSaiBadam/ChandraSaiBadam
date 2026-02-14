@@ -14,7 +14,7 @@ Built <strong>CampusBro.in</strong>, a student community platform with
 <strong>React, Node.js, SQL</strong>, and <strong>machine learning </strong>.
 
 
-<h2>Connect with me and lets dive deep into the discussion on anything in engineering and life</h2> 😉
+<h2>Connect with me and lets dive deep into the discussion on anything in engineering and life😉</h2> 
 
 
 ## 🌐 Socials:
