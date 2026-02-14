@@ -1,5 +1,20 @@
 # 💫 About Me:
- About Me:<br><br>I’m currently working on<br>Full-stack web apps and NLP summarization systems using diffusion models.<br><br>Built CampusBro.in, a student community platform with 23,000+ visits.<br><br>I’m looking to collaborate on<br>Web development and machine learning projects.<br><br>I’m currently learning<br>React, Node.js, SQL, and applied NLP.<br><br>Connect with me and lets discuss more on the widely filled world of<br>engineering!
+
+<h3>🚀 Currently Working On</h3>
+Full-stack web apps and <strong>NLP summarization systems</strong> using <strong>diffusion models</strong>.
+
+<h3>🔥 Major Achievement</h3>
+Built <strong>CampusBro.in</strong>, a student community platform with 
+<span style="font-size:18px;"><strong>23,000+ visits</strong></span>.
+
+<h3>🤝 Looking to Collaborate On</h3>
+<strong>Web Development</strong> and <strong>Machine Learning</strong> projects.
+
+<h3>📚 Currently Learning</h3>
+<strong>React, Node.js, SQL</strong>, and applied <strong>NLP</strong>.
+
+<h3>🌍 Let’s Connect</h3>
+Connect with me and let’s discuss the ever-evolving world of <strong>Engineering</strong>!
 
 
 ## 🌐 Socials:
