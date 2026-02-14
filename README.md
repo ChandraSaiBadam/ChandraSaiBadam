@@ -14,10 +14,10 @@ Built <strong>CampusBro.in</strong>, a student community platform with
 <strong>React, Node.js, SQL</strong>, and <strong>machine learning </strong>.
 
 
-<h2>Connect with me and lets dive deep into the discussion on anything in engineering and life😉</h2> 
 
 
 ## 🌐 Socials:
+<h2>Connect with me and lets dive deep into the discussion on anything in engineering and life😉</h2> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/csb2607) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandra-sai-badam-883176240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrasaibadam@gmail.com) 
 
 # 💻 Tech Stack:
